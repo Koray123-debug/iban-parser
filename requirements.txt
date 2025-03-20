@@ -1,4 +1,1 @@
-BeautifulSoup
-argparse
-requests
-tkinter
+4f749caf10ce3a31ba6319dda71a6bf425a64fb5d24d3bac16b75d0839b5ade1
